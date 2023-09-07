@@ -1,2 +1,4 @@
 # SAYNA-INTERNET-PROJET1
-Le fonctionnement d'Internet
+Intitulé : Entrainement sur les bases d'Internet
+Module : Comment Internet fonctionne
+Parcours : DISCOVERY
